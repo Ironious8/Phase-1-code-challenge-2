@@ -1,0 +1,38 @@
+body {
+    background-color:coral;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    color:blueviolet;
+
+}
+
+.input-group {
+   margin: 50px 0px;
+}
+
+.btn-add {
+   background-color: green;
+   color: white;
+   padding:0px 60px;
+}
+
+.btn-remove {
+    background-color: red;
+    color:white;
+    padding:0px 60px;
+}
+
+.btn-mark {
+   background-color:yellow;
+   color: darkblue;
+   padding:0px 60px;
+}
+.input-group input {
+    padding:0px 60px;
+    height:1cm;
+    width:12cm;
+}
