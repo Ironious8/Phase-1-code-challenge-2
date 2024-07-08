@@ -36,3 +36,9 @@ h1{
     height:1cm;
     width:12cm;
 }
+#ul {
+    margin-bottom: 0px;
+    padding-left: 0px;
+    display: flex;
+    flex-direction: column;
+}
